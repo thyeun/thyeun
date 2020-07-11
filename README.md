@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working as AOI specialist.
+
+🌱 I’m currently learning on ML/AI (AOI field).
+
 <!--
 **thyeun/thyeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
