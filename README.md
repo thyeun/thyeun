@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body style="background-color:black;">
-      <img src="http://thyeun.github.io/images/2020-07-12/readme.jpg" style="margin: 0 auto; width: 300px;" />
-   </body>
-</html>
+<p class="line-1 anim-typewriter">Hi! I'm Thomas.</p>
+<h1>
+  <a href="" class="typewrite" data-period="1000" data-type='[ "I am a AOI Manager.","I love to code.", "I build AOI applications.", "Follow me on Twitter." ]'>
+    <span class="wrap"></span>
+  </a>
+</h1>
